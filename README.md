@@ -20,6 +20,7 @@ Link to Starting Page of app:
 http://apps.introcs.com/ak123/hack-110-project/doodle-adventure.html 
 
 Individual Contributions to Project: 
+
 Isha - Positioning Joel, Grayson, and the moving basketballs and logs using for loops and if statements; creating classes for the log and basketball; implementing the logic for the program to detect when icons collided 
 Akshay - Visual creations of islands and court, completing some of the loops and if-statements for when the game ended, creating the message box to display at the end that showed the score 
 
