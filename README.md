@@ -14,7 +14,7 @@ COMP 110 Programming Concepts Used:
 If-Then-Else statements, For Loops, Object-Oriented Programming 
 
 Challenges Overcome / New Concepts Learned: 
-We learned how to implement object-oriented programming and constructors, especially when creating Sprite objects for each icon, as well as using HTML to create a web-base game. Challenges we overcame included making the islands move and reappear at a constant rate, making the player keep jumping at a decent speed when he touched a log, and displaying the message after the game ended that counted up the points of the game. 
+We learned how to implement object-oriented programming and constructors, especially when creating Sprite objects for each icon, as well as using HTML to create a web-based game. Challenges we overcame included making the islands move and reappear at a constant rate, making the player keep jumping at a decent speed when he touched a log, and displaying the message after the game ended that counted up the points of the game. 
 
 Link to Starting Page of app: 
 http://apps.introcs.com/ak123/hack-110-project/doodle-adventure.html 
